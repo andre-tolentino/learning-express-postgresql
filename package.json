@@ -1,0 +1,19 @@
+{
+  "name": "learning-express-postgresql",
+  "version": "1.0.0",
+  "description": "CRUD made with ExpressJS and PostgreSQL",
+  "main": "server.js",
+  "repository": "https://github.com/andre-tolentino/learning-express-postgresql.git",
+  "author": "André Tolentino <andre.tolentiino@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
